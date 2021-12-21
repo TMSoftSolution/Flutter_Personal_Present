@@ -1,4 +1,4 @@
-package com.example.flutter_template
+package com.example.personal_present
 
 import io.flutter.embedding.android.FlutterActivity
 
